@@ -1,5 +1,5 @@
 # TowerDefense3D-Unity
-//TODO: add 3-5 sec gif of gameplay, finish development part
+
 ## Introduction
 A Simple 3D TowerDefense-Game made as a graduation  project.
 
@@ -25,7 +25,6 @@ A Simple 3D TowerDefense-Game made as a graduation  project.
 <img src="lvl3.png" width="400" >
 <img src="enemy.png" width="350" height="260">
 </p>
-
 
 ---
 ## Development
